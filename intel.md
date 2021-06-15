@@ -11,6 +11,10 @@ date: 2021-06-08T09:07
 * Giant warship, traveling towards draconid kingdoms. Mission unclear. Traded provisions with us.
 * Triton fishers. Destitute and near defenseless, were easy to export for a "tithe" but only able to pay in kind. Good fish. Decent folk. Crew regret that interaction.
 
+### 2021-06-14, near Fiesta Isle (in the Giant Kingdom)
+* Weekly cutters, crewed by Goliaths, carrying artifacts on unclear provenance
+* Camp is guarded by several goliaths and a hill giant
+
 ## Economic reports
 * We'll need a fence before we get any of these
 
